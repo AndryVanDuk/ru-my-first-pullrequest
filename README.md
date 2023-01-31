@@ -33,6 +33,8 @@ We vibe, we move, we enjoy ourselves!
 Всем привет меня зовут Загид, и да GitHub is awesome!!!:)
 Делаем ещё одно изменение
 
+Python is awesome!
+
 SUSUME! 
 
 Спасибо Hexlet.
